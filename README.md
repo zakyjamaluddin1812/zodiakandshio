@@ -4,6 +4,7 @@
 2. Buat file index.html
 ![Giff](src/20220218_164303.gif)
 3. Copy starter template dari [Bootstrap](https://getbootstrap.com/ "Menuju halaman bootstrap"), kemudian paste di index.html
+![Giff](src/20220219_091857.gif)
 4. Ganti title, kemudian buat headingn dan form untuk menangkap inputan tanggal, bulan dan tahun lahir dari user. Jangan lupa untuk memberi nama pada form dan masing-masing inputan untuk kemudian ditangkap oleh DOM
 ``` html
 <h1 class="text-center">- Zodiak and Shio -</h1>
